@@ -1,0 +1,13 @@
+
+Comparsion Sort 
+
+  /* (n^2)😓️*/
+
+Bubble sort  
+Selection sort 
+Insertion sort 
+
+  /*(n log n)🙁️*/
+Merge Sort 
+Quick Sort
+
